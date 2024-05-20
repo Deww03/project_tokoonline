@@ -27,7 +27,7 @@
 
   
   <center>
-    <h2>Laporan Penjualan Toko Online Pakaian Tenun</h2>
+    <h2>Laporan Penjualan Toko Online Sepatu</h2>
   </center>
 
   <?php 

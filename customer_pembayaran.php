@@ -84,7 +84,7 @@
 								</tr>
 								<tr>
 									<th>Atas Nama</th>
-									<td>Toko Online Pakaian Tenun</td>
+									<td>Toko Online Sepatu</td>
 								</tr>
 								<tr>
 									<th>Bank</th>

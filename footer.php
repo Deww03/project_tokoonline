@@ -17,7 +17,7 @@
 					</div>
 					<!-- /footer logo -->
 
-					<p>Toko online penyedia pakaian tenun terlengkap, tersedia berbagai ukuran dengan kualitas terbaik.</p>
+					<p>Toko online penyedia Sepatu terlengkap, tersedia berbagai ukuran dengan kualitas terbaik.</p>
 
 				</div>
 			</div>
