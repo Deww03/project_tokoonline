@@ -5,7 +5,7 @@
   <section class="content-header">
     <h1>
       Produk
-      <small>Tambah Produk Baru</small>
+      <small>Edit Produk Baru</small>
     </h1>
     <ol class="breadcrumb">
       <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -19,7 +19,7 @@
         <div class="box box-info">
 
           <div class="box-header">
-            <h3 class="box-title">Tambah Produk</h3>
+            <h3 class="box-title">Edit Produk</h3>
             <a href="produk.php" class="btn btn-info btn-sm pull-right"><i class="fa fa-reply"></i> &nbsp Kembali</a> 
           </div>
           <div class="box-body">

@@ -80,7 +80,7 @@
 				<!-- footer copyright -->
 				<div class="footer-copyright">
 					
-					Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+					Copyright Awan Indonesia &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
 					
 				</div>
 				<!-- /footer copyright -->

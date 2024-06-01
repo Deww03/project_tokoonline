@@ -110,17 +110,7 @@
 									</div>
 								</div>
 
-								<div class="row">
-									<div class="col-lg-12">
-										<div class="pull-left">
-											<a class="main-btn" href="keranjang.php">Kembali Ke Keranjang</a>
-										</div>
-
-										<div class="pull-right">
-											<input type="submit" class="primary-btn" value="Buat Pesanan">
-										</div>
-									</div>
-								</div>
+								
 
 							</div>
 							<div class="col-lg-6">
@@ -218,6 +208,17 @@
 								?>
 
 							</div>
+							<div class="row">
+									<div class="col-lg-12">
+										<div class="pull-left">
+											<a class="main-btn" href="keranjang.php">Kembali Ke Keranjang</a>
+										</div>
+
+										<div class="pull-right">
+											<input type="submit" class="primary-btn" value="Buat Pesanan">
+										</div>
+									</div>
+								</div>
 						</form>
 
 
